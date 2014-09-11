@@ -1,0 +1,9 @@
+C:\Documents and Settings\Admin\Рабочий стол\Учебное\C#\Компьютерная графика (ИС С#)\задачи\3d\Shadows\Shadows\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Admin\Рабочий стол\Учебное\C#\Компьютерная графика (ИС С#)\задачи\3d\Shadows\Shadows\obj\x86\Debug\Shadows.Form1.resources
+C:\Documents and Settings\Admin\Рабочий стол\Учебное\C#\Компьютерная графика (ИС С#)\задачи\3d\Shadows\Shadows\obj\x86\Debug\Shadows.Properties.Resources.resources
+C:\Documents and Settings\Admin\Рабочий стол\Учебное\C#\Компьютерная графика (ИС С#)\задачи\3d\Shadows\Shadows\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Admin\Рабочий стол\Учебное\C#\Компьютерная графика (ИС С#)\задачи\3d\Shadows\Shadows\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Admin\Рабочий стол\Учебное\C#\Компьютерная графика (ИС С#)\задачи\3d\Shadows\Shadows\bin\Debug\Shadows.exe
+C:\Documents and Settings\Admin\Рабочий стол\Учебное\C#\Компьютерная графика (ИС С#)\задачи\3d\Shadows\Shadows\bin\Debug\Shadows.pdb
+C:\Documents and Settings\Admin\Рабочий стол\Учебное\C#\Компьютерная графика (ИС С#)\задачи\3d\Shadows\Shadows\obj\x86\Debug\Shadows.exe
+C:\Documents and Settings\Admin\Рабочий стол\Учебное\C#\Компьютерная графика (ИС С#)\задачи\3d\Shadows\Shadows\obj\x86\Debug\Shadows.pdb
